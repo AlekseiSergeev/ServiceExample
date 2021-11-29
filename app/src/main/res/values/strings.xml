@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentServiceExample</string>
+    <string name="service_stopped">Service stopped</string>
+    <string name="service_started">Service started</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="data_string">Data string</string>
+    <string name="send_data">SEND DATA</string>
+</resources>
